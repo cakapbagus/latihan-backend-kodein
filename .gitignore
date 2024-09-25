@@ -1,2 +1,4 @@
 *.txt
+package-lock.json
 testing/
+node_modules/
