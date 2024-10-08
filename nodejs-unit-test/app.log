@@ -1,0 +1,16 @@
+{"level":"info","message":"Hello Logger","ms":"+0ms","timestamp":"2024-10-08T03:49:48.266Z"}
+{"level":"error","message":"Hello Logger","ms":"+14ms","timestamp":"2024-10-08T03:49:48.282Z"}
+{"level":"warn","message":"Hello Logger","ms":"+5ms","timestamp":"2024-10-08T03:49:48.287Z"}
+{"level":"debug","message":"Hello Logger","ms":"+3ms","timestamp":"2024-10-08T03:49:48.290Z"}
+{"level":"verbose","message":"Hello Logger","ms":"+4ms","timestamp":"2024-10-08T03:49:48.293Z"}
+{"level":"silly","message":"Hello Logger","ms":"+2ms","timestamp":"2024-10-08T03:49:48.296Z"}
+{"level":"http","message":"Hello Logger","ms":"+3ms","timestamp":"2024-10-08T03:49:48.299Z"}
+{"level":"error","message":"Hello Logger","ms":"+5ms","timestamp":"2024-10-08T03:49:48.304Z"}
+{"level":"info","message":"Hello Logger","ms":"+0ms","timestamp":"2024-10-08T03:53:08.188Z"}
+{"level":"error","message":"Hello Logger","ms":"+11ms","timestamp":"2024-10-08T03:53:08.201Z"}
+{"level":"warn","message":"Hello Logger","ms":"+2ms","timestamp":"2024-10-08T03:53:08.203Z"}
+{"level":"debug","message":"Hello Logger","ms":"+4ms","timestamp":"2024-10-08T03:53:08.207Z"}
+{"level":"verbose","message":"Hello Logger","ms":"+5ms","timestamp":"2024-10-08T03:53:08.212Z"}
+{"level":"silly","message":"Hello Logger","ms":"+33ms","timestamp":"2024-10-08T03:53:08.245Z"}
+{"level":"http","message":"Hello Logger","ms":"+16ms","timestamp":"2024-10-08T03:53:08.261Z"}
+{"level":"error","message":"Hello Logger","ms":"+30ms","timestamp":"2024-10-08T03:53:08.290Z"}

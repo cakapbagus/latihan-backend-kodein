@@ -1,0 +1,27 @@
+{
+    "name": "nodejs-unit-test",
+    "version": "1.0.0",
+    "description": "Belajar Nodejs Unit Testing",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "testAsync": "jest --runTestsByPath ./test/helloAsync.test.js",
+        "testSum": "jest --runTestsByPath ./test/sum.test.js",
+        "test1": "jest --runTestsByPath ./test/test1.test.js",
+        "test2": "jest --runTestsByPath ./test/test2.test.js",
+        "logger": "jest --runTestsByPath ./test/logger.test.js",
+        "logger2": "jest --runTestsByPath ./test/logger2.test.js"
+    },
+    "author": "cakapbagus",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/preset-env": "^7.25.4",
+        "babel-jest": "^29.7.0",
+        "jest": "^29.7.0"
+    },
+    "dependencies": {
+        "winston": "^3.15.0",
+        "winston-daily-rotate-file": "^4.7.1"
+    }
+}

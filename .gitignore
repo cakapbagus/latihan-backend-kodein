@@ -1,4 +1,6 @@
 *.txt
-package-lock.json
+test.*
+*-lock.json
 testing/
 node_modules/
+coverage/

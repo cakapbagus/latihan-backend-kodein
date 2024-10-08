@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": ".1a3570a3acfeead7ce182f9869b5512aa7f0583a-audit.json",
+    "files": [
+        {
+            "date": 1728360633185,
+            "name": "rotated-2024-10-08_11:10:33.log",
+            "hash": "4defb47b5c7d3d705002e2649700af16e579b8f62c71f6c0a96ecea8f870e842"
+        },
+        {
+            "date": 1728360633264,
+            "name": "rotated-2024-10-08_11:10:33.log.1",
+            "hash": "17e54f9cd2fccd2823b40cf67948aec1429a790b3021d31a1c084806d4b55439"
+        },
+        {
+            "date": 1728360633322,
+            "name": "rotated-2024-10-08_11:10:33.log.2",
+            "hash": "fbb490f34aa702d1cf949b274dcac9203da3d890e9bc3cf5a17f3404253f9358"
+        },
+        {
+            "date": 1728360633383,
+            "name": "rotated-2024-10-08_11:10:33.log.3",
+            "hash": "508895d00961e3d51b6d7b590768206b19812535df96d35c9593c1a1ded153ef"
+        },
+        {
+            "date": 1728360633437,
+            "name": "rotated-2024-10-08_11:10:33.log.4",
+            "hash": "64e38c9d4ada5c0635a5090e60a295d4b9057d9d72da1e6647b791fdc98a329e"
+        },
+        {
+            "date": 1728360633470,
+            "name": "rotated-2024-10-08_11:10:33.log.5",
+            "hash": "19a3f052565d448357977e690230de05103b974e98440965587fb59c4c21ea98"
+        },
+        {
+            "date": 1728360633502,
+            "name": "rotated-2024-10-08_11:10:33.log.6",
+            "hash": "9d32a214f67f3bbab8aff781a82e23c051982c919a3d598820c7708405ed3b14"
+        },
+        {
+            "date": 1728360633564,
+            "name": "rotated-2024-10-08_11:10:33.log.7",
+            "hash": "1e0cc97f0504b4aca1a5afc5e38db207ca19baa6dc1e95ffff284facc00fe766"
+        },
+        {
+            "date": 1728360633619,
+            "name": "rotated-2024-10-08_11:10:33.log.8",
+            "hash": "3ff7fbf094fb8e77ae1b43af122986e75939c23497a262c96f75a33a78964dd8"
+        },
+        {
+            "date": 1728360633666,
+            "name": "rotated-2024-10-08_11:10:33.log.9",
+            "hash": "af163208af4b507d4d32244ad54bf1ff45c9d39c1d4e7cbc9e2f966acc534372"
+        },
+        {
+            "date": 1728360719398,
+            "name": "rotated-2024-10-08_11:11:59.log",
+            "hash": "048cc5d2ae8a9b838ad89e02e551d2ecf6610c4ff7e3a8c96b2e5b9a1e6e1626"
+        },
+        {
+            "date": 1728360719480,
+            "name": "rotated-2024-10-08_11:11:59.log.1",
+            "hash": "ed42c2171a13376b65eecfec94a6377ee159cc61e5db8a394f515d108351d020"
+        },
+        {
+            "date": 1728360719565,
+            "name": "rotated-2024-10-08_11:11:59.log.2",
+            "hash": "9d175d2eb675506fe4ebba61215e0ba5bf9d786638619d5d80bc0211ac5709c3"
+        },
+        {
+            "date": 1728360719648,
+            "name": "rotated-2024-10-08_11:11:59.log.3",
+            "hash": "1a2d196f554813409dbe02c6449bfdc3d1222f5a7bc0f69d7768f23e60140d17"
+        },
+        {
+            "date": 1728360719724,
+            "name": "rotated-2024-10-08_11:11:59.log.4",
+            "hash": "4b39207178672d8d59381e2ec8ab6273f0e5d523c2cd252c570627e4be5fc515"
+        },
+        {
+            "date": 1728360719763,
+            "name": "rotated-2024-10-08_11:11:59.log.5",
+            "hash": "3804ced98c9719f57a60947dccdda3699e87293bd64d32c617a34247ae2c69f0"
+        },
+        {
+            "date": 1728360719817,
+            "name": "rotated-2024-10-08_11:11:59.log.6",
+            "hash": "4cc777d402c41cba78170cf362fac243719066b1132d0512f6f3276ffa2b8326"
+        },
+        {
+            "date": 1728360719895,
+            "name": "rotated-2024-10-08_11:11:59.log.7",
+            "hash": "fd654c4885cac974b71ddb2fcf9e369d952614c7b43c2e107d2219f3e79eb605"
+        },
+        {
+            "date": 1728360719941,
+            "name": "rotated-2024-10-08_11:11:59.log.8",
+            "hash": "5938d97a227a0481c26dbcf998faf3f935516c5e6cd522c7099b8f60826a953f"
+        },
+        {
+            "date": 1728360720001,
+            "name": "rotated-2024-10-08_11:12:00.log",
+            "hash": "096a1e7ffbb941d0e6d4c7438258293c3f5982be8c1892a64c628f1d364fe0b9"
+        }
+    ],
+    "hashType": "sha256"
+}
